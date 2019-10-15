@@ -1,2 +1,2 @@
-# casino-game
+# Sky Jockeys - Casino Game
 ![](assets/img/presenting.gif)
