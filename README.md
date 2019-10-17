@@ -1,4 +1,4 @@
 # Sky Jockeys - Casino Game
 Simple casino game build with PixiJS
-https://catalin.work/portfolio/casino-game/
+<a href="https://catalin.work/portfolio/casino-game/">Demo</a><br>
 ![](assets/img/presenting.gif)
